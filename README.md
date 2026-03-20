@@ -1,37 +1,32 @@
 # Hey 👋, I'm Priti!
 
-💻 B.Tech IT Student | 💡 Future Software Developer  
-🌱 Currently learning JavaScript & Web Development  
+💻 B.Tech IT Student | 🚀 Aspiring Software Developer  
+🌱 Learning DSA & Full Stack Development (MERN + MySQL)
 
 ---
 
 ## 🚀 About Me
-- 🎯 Interested in Software Development
-- 💻 Learning full stack development
-- 🔐 Also exploring Cybersecurity and competitive programming
-- 📚 Love building small projects
+- 🎯 Focused on Software Development
+- 🧠 Practicing Data Structures & Algorithms (DSA)
+- 🌐 Building projects using MERN Stack
+- 🔐 Exploring Cybersecurity basics
 
 ---
 
 ## 🛠 Tech Stack
--Java
-- JavaScript
-- C
-- Python
-- html
-- css
-- bootsrap
+- 💻 Languages: Java, JavaScript, C, Python  
+- 🌐 Web: HTML, CSS, Bootstrap  
+- ⚙️ Learning: MERN Stack, MySQL  
 
 ---
 
 ## 📂 Projects
-- 🔹 Basic JavaScript Programs
-- 🔹 Calculator
-- 🔹 Portfolio website
-- 🔹 To-Do App (coming soon)
-  
+- 🔹 JavaScript Practice Programs  
+- 🔹 Calculator Web App  
+- 🔹 Portfolio Website  
+- 🔹 To-Do App (in progress)  
 
 ---
 
-## 📫 Connect With Me
-- ✉️ Email: pritiyadavit25@gmail.com
+## 📫 Contact
+- ✉️ pritiyadavit25@gmail.com
