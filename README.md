@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey 👋, I'm Priti!
 
-<!--
-**pritiyadav25/pritiyadav25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech IT Student | 💡 Future Software Developer  
+🌱 Currently learning JavaScript & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎯 Interested in Software Development
+- 💻 Learning full stack development
+- 🔐 Also exploring Cybersecurity and competitive programming
+- 📚 Love building small projects
+
+---
+
+## 🛠 Tech Stack
+-Java
+- JavaScript
+- C
+- Python
+- html
+- css
+- bootsrap
+
+---
+
+## 📂 Projects
+- 🔹 Basic JavaScript Programs
+- 🔹 Calculator
+- 🔹 Portfolio website
+- 🔹 To-Do App (coming soon)
+  
+
+---
+
+## 📫 Connect With Me
+- ✉️ Email: pritiyadavit25@gmail.com
