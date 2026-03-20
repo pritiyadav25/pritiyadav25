@@ -30,3 +30,5 @@
 
 ## 📫 Contact
 - ✉️ pritiyadavit25@gmail.com
+-  💼 LinkedIn: www.linkedin.com/in/priti-yadav-contactme
+- 🧠 LeetCode: https://leetcode.com/u/pritiyadav25/
