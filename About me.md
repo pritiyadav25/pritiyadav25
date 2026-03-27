@@ -37,7 +37,3 @@ Motivated IT student with a strong foundation in **C, Java, JavaScript**, and ex
 - Email: [pritiyadavit25@gmail.com](mailto:pritiyadavit25@gmail.com)  
 - LinkedIn: [priti-yadav-contactme](https://www.linkedin.com/in/priti-yadav-contactme)  
 - GitHub: [pritiyadav25](https://github.com/pritiyadav25)  
-## 📫 Contact
-- ✉️ pritiyadavit25@gmail.com
--  💼 LinkedIn: www.linkedin.com/in/priti-yadav-contactme
-- 🧠 LeetCode: https://leetcode.com/u/pritiyadav25/
