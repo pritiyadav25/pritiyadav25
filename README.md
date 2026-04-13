@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Priti Yadav 👋
+B.Tech IT Student | Diploma in IT | Full Stack Developer |,Node.js | MERN stack| Problem Solver
 
-<!--
-**pritiyadav25/pritiyadav25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Motivated IT student with a strong foundation in C, Java, JavaScript, Node.js  and experience in full-stack development (MERN). Passionate about DSA, web development, and building efficient solutions.
 
-Here are some ideas to get you started:
+Skills
+Languages: C, Java, JavaScript
+Frameworks/Libraries: Node.js, Express.js, React.js
+Frontend: HTML, CSS, Bootstrap, Tailwind CSS
+Database: MongoDB, MySQL
+Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+E-Commerce: Delivery management system with role-based access.
+Task Manager : A fullStack webApp  using Mern.
+To-Do List Web App: Task manager with authentication and real-time updates.
+Chat Application: Real-time messaging app using Socket.io and MongoDB.
+Portfolio Website: Responsive React portfolio deployed on Netlify.
+
+Education
+B.Tech IT (2024–2027) – Goel Institute of Technology and Management, Lucknow
+Diploma IT (2021–2024) – Government Girls’ Polytechnic, Lucknow
+Contact
+Email: pritiyadavit25@gmail.com
+LinkedIn: priti-yadav-contactme
+GitHub: pritiyadav25
