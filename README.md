@@ -1,67 +1,61 @@
-<h1 align="center">Hi 👋, I'm Priti Yadav</h1>
-<h3 align="center">💻 Full Stack Developer | Mern Stack </h3>
+<h1 align="center">Priti Yadav</h1>
+<h3 align="center">Full Stack Developer | Node.js | MERN Stack </h3>
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 B.Tech IT Student (2024–2027)
-- 🎯 Passionate about **DSA, Web Development & Cybersecurity**
-- 🚀 Love building **efficient full-stack applications**
-- 🌱 Currently learning **MERN Stack & Advanced DSA**
+## About Me
+I am a B.Tech IT student with a strong foundation in C, Java, JavaScript, and full-stack development (MERN).  
+I am passionate about problem solving, data structures, and building efficient web applications.
 
 ---
 
-## 🛠️ Tech Stack
+## Skills
 
-### 💻 Languages
-- C, Java, JavaScript 
+**Languages:**  
+C, Java, Python ,JavaScript  
 
-### 🌐 Frontend
-- HTML, CSS, Bootstrap, Tailwind CSS, React.js
+**Frontend:**  
+HTML, CSS, Bootstrap, Tailwind CSS, React.js  
 
-### ⚙️ Backend
-- Node.js, Express.js
+**Backend:**  
+Node.js, Express.js  , Django
 
-### 🗄️ Database
-- MongoDB, MySQL
+**Database:**  
+MongoDB, MySQL  
 
-### 🧰 Tools
-- Git, GitHub, Postman
-
----
-
-## 🚀 Projects
-
-### 🛒 E-Commerce Delivery System
-- Role-based access system
-- Full stack MERN project
-
-### 📋 Task Manager Web App
-- Authentication system
-- Real-time updates
-
-### 💬 Chat Application
-- Built using Socket.io
-- Real-time messaging + MongoDB
-
-### 🌐 Portfolio Website
-- Responsive React portfolio
-- Deployed on Netlify
+**Tools:**  
+Git, GitHub, Postman  , VS Code
 
 ---
 
-## 🎓 Education
-- 🎓 B.Tech IT – Goel Institute of Technology and Management, Lucknow (2024–2027)  
-- 🎓 Diploma IT – Government Girls' Polytechnic, Lucknow (2021–2024)
+## Projects
+
+**E-Commerce Website**  
+Role-based access system built using Python with Django
+
+**Task Manager Web App**  
+Full-stack application with authentication and real-time updates  
+
+**Chat Application**  
+Real-time messaging using Socket.io and MongoDB  
+
+**Portfolio Website**  
+Responsive React portfolio deployed on Netlify  
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: pritiyadavit25@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/priti-yadav-contactme  
-- 💻 GitHub: https://github.com/pritiyadav25  
+## Education
+
+B.Tech in Information Technology (2024–2027)  
+Goel Institute of Technology and Management, Lucknow  
+
+Diploma in Information Technology (2021–2024)  
+Government Girls' Polytechnic, Lucknow  
 
 ---
 
-## ✨ Fun Fact
-💖 "In a complicated relationship with Web-Series" 😄
+## Contact
+
+Email: pritiyadavit25@gmail.com  
+LinkedIn: https://linkedin.com/in/priti-yadav-contactme  
+GitHub: https://github.com/pritiyadav25  
