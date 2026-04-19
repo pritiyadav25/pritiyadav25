@@ -47,6 +47,7 @@ Responsive React portfolio deployed on Netlify
 ## Education
 
 B.Tech in Information Technology (2024–2027)  
+Dr. APJ Abdul Kalam Technical University
 Goel Institute of Technology and Management, Lucknow  
 
 Diploma in Information Technology (2021–2024)  
