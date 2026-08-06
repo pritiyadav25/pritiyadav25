@@ -12,7 +12,7 @@ I am passionate about problem solving, data structures, and building efficient w
 ## Skills
 
 **Languages:**  
-C, Java, Python ,JavaScript  
+C, Java, JavaScript  
 
 **Frontend:**  
 HTML, CSS, Bootstrap, Tailwind CSS, React.js  
